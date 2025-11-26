@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ArchiGen Transform",
+  "description": "Transform exterior architecture models using Gemini 2.5 Flash Image. Upload a house photo, apply styles, or use reference images for stunning redesigns.",
+  "requestFramePermissions": []
+}
